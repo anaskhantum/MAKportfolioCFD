@@ -7,7 +7,7 @@ Welcome to my professional portfolio! I'm a passionate developer specializing in
 
 ## 🛠️ Featured Projects
 
-### [Project 1: E-commerce Platform](./projects/project1.md)
+### [Project 1: E-commerce Platform](./project/project1.md)
 **Technologies:** React, Node.js, MongoDB, Stripe API  
 A full-stack shopping platform with user authentication and payment processing.
 
